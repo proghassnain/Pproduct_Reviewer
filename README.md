@@ -21,9 +21,7 @@ Real-time product content analysis using LangChain + FAISS embeddings
 
 Clone the repository:
 
-git clone https://github.com/your-username/product-review-recommender.git
-cd product-review-recommender
-
+git clone : https://github.com/proghassnain/Pproduct_Reviewer?tab=readme-ov-file
 
 Create a virtual environment and activate it:
 
